@@ -14,7 +14,7 @@ My Twitter: @whohhnb<br>
 
 ### ⚡ Fun fact: ...
 Infact,I'm Loser.<br>
-God!When will there be money in the sky to hit my head!<br>
+God!When there will be in the sky drop money!<br>
 ## An interesting video ...
 Click this url 👇<br>
 <https://api.whohh.cn/gift/phub>

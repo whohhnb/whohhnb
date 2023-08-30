@@ -19,7 +19,7 @@ Infact,I'm Loser.
 God!When will there be money in the sky to hit my head!
 
 ### An interesting video ...
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6CCBSaveJs8?si=ARAiSQ6H_QUs9DfS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![]
 <!--
 **whohhnb/whohhnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

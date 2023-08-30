@@ -16,6 +16,6 @@ My Twitter: @whohhnb<br>
 Infact,I'm Loser.<br>
 God!When will there be money in the sky to hit my head!<br>
 ### An interesting video ...
-<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
-      <source id="mp4" src="[http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.mp4](https://cdn.whohh.cn/video/phub.mp4)https://cdn.whohh.cn/video/phub.mp4" type="video/mp4">
-      </video>
+
+https://github.com/whohhnb/whohhnb/assets/108384401/3c550d60-8290-470a-a39c-3afe17978025
+

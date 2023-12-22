@@ -11,6 +11,7 @@ My Email: `whohhnb@gmail.com`<br>
 My QQ: 1951723651 (Add friends to indicate the intention)<br>
 My IG: <https://www.instgram.com/whohhnb><br>
 My Twitter: @whohhnb<br>
+My TG: <https://t.me/beeunc><br>
 
 ### ⚡ Fun fact: ...
 Infact,I'm Loser.<br>
